@@ -3,9 +3,33 @@
 <p>Julia is&nbsp;<a title="Garbage collection (computer science)" href="https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)">garbage-collected</a>,&nbsp;uses&nbsp;<a title="Eager evaluation" href="https://en.wikipedia.org/wiki/Eager_evaluation">eager evaluation</a>, and includes efficient libraries for&nbsp;<a class="mw-redirect" title="Floating-point" href="https://en.wikipedia.org/wiki/Floating-point">floating-point</a>&nbsp;calculations,&nbsp;<a title="Linear algebra" href="https://en.wikipedia.org/wiki/Linear_algebra">linear algebra</a>,&nbsp;<a title="Random number generation" href="https://en.wikipedia.org/wiki/Random_number_generation">random number generation</a>, and&nbsp;<a title="Regular expression" href="https://en.wikipedia.org/wiki/Regular_expression">regular expression</a>&nbsp;matching. Many libraries are available, including some (e.g., for&nbsp;<a title="Fast Fourier transform" href="https://en.wikipedia.org/wiki/Fast_Fourier_transform">fast Fourier transforms</a>) that were previously bundled with Julia and are now separate.</p>
 <p>Tools available for Julia include, not just many widely used editors, such as&nbsp;<a title="Vim (text editor)" href="https://en.wikipedia.org/wiki/Vim_(text_editor)">Vim</a>&nbsp;and&nbsp;<a title="Emacs" href="https://en.wikipedia.org/wiki/Emacs">Emacs</a>, but also&nbsp;<a title="Integrated development environment" href="https://en.wikipedia.org/wiki/Integrated_development_environment">IDEs</a>&nbsp;(e.g. Juno, and Microsoft's&nbsp;<a title="Visual Studio Code" href="https://en.wikipedia.org/wiki/Visual_Studio_Code">Visual Studio Code</a>, with&nbsp;<a title="Plug-in (computing)" href="https://en.wikipedia.org/wiki/Plug-in_(computing)">extensions</a>&nbsp;adding Julia support, both providing debugging support); with integrated tools, e.g. a&nbsp;<a title="Lint (software)" href="https://en.wikipedia.org/wiki/Lint_(software)">linter</a>,&nbsp;<a title="Profiling (computer programming)" href="https://en.wikipedia.org/wiki/Profiling_(computer_programming)">profiler</a>&nbsp;(and flame graph support available&nbsp;for the built-in one), debugger,&nbsp;and the Rebugger.jl package "supports&nbsp;<a title="Interactive programming" href="https://en.wikipedia.org/wiki/Interactive_programming">repeated-execution debugging</a>"&nbsp;and more.</p>
 
+</br>
 
 
-
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Notable_uses"><span class="toctext">Notable uses</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Sponsors"><span class="toctext">Sponsors</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Julia_Computing"><span class="toctext">Julia Computing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Language_features"><span class="toctext">Language features</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Interaction"><span class="toctext">Interaction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Use_with_other_languages"><span class="toctext">Use with other languages</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Usage"><span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Implementation"><span class="toctext">Implementation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Current_and_future_platforms"><span class="toctext">Current and future platforms</span></a></li>
+</ul>
+</li>
+</ul>
 
 
 
